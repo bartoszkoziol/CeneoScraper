@@ -12,7 +12,7 @@
 
 ## Strunktura opinii w serwisie Ceneo.pl
 |składowa|zmienna|selektor|
-|--------|-------|--------|
+|--------|-------|--------|s
 |opinia|review|div.js_product-review|
 |identyfikator opinii|review_id|['data-entry-id']|
 |autor|author|span.user-post__author-name|
